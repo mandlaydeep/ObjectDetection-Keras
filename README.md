@@ -15,7 +15,7 @@ According to the paper [YOLOv3: An Incremental Improvement](https://pjreddie.com
 
 - Run the follow command to convert darknet weight file to keras h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 ```
-python yad2k.py cfg\yolo.cfg yolov3.weights data\yolo.h5
+python demo.py cfg\yolo.cfg yolov3.weights data\yolo.h5
 ```
 
 - run follow command to show the demo. The result can be found in `images\res\` floder.
@@ -27,7 +27,7 @@ python demo.py
 
 It can be seen that yolo v3 has a better classification ability than yolo v2.
 
-<img width="400" height="350" src="/images/res/1(1).jpg"/><img width="400" height="350" src="/images/res/1(5).jpg"/>
+<img width="400" height="350" src="/images/res/linclon.jpg"/><img width="400" height="350" src="/images/res/restaurent.jpg"/>
 
 ## TODO
 
