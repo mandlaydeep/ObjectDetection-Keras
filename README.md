@@ -29,9 +29,7 @@ It can be seen that yolo v3 has a better classification ability than yolo v2.
 
 <img width="720" height="1280" src="/images/res/linclon.jpg"/><img width="1280" height="720" src="/images/res/restaurent.jpg"/>
 
-## TODO
 
-- Train the model.
 
 ## Reference
 
